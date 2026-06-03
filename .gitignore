@@ -1,0 +1,14 @@
+# Word temporary lock files
+~$*.docx
+
+# Local report/reference material should stay off the code repository
+*.docx
+papers/
+
+# VCS / simulator generated files
+simv
+simv.daidir/
+csrc/
+ucli.key
+*.vcd
+*.log
